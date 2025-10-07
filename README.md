@@ -55,6 +55,15 @@ Understood the tagging workflow used in professional sports-data systems.
 
 4️⃣ ![Volleyball Introduction Session – Trainer Explaining Match Structure and Rules 2](Volleyball%20Introduction%20Session%20–%20trainer%20explaining%20match%20structure%20and%20rules2.png)
 
+## 🎥 Tagging Demo Video
+
+Watch this demo of me tagging a volleyball match using the platform:
+
+[Watch Tagging Demo Video](https://drive.google.com/file/d/1ip0dNQXhdnPVJSSCkhqBmRCZOMacla3i/view?usp=sharing)
+
+*(This video demonstrates how I tag key events such as Serve, Spike, Block, etc.)*
+
+
 🗒️ Notes
 
 Training conducted remotely, demonstrating ability to work effectively in a remote setup with stable internet, high-end laptop, and dedicated workspace.
