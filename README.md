@@ -1,56 +1,65 @@
-# Tacklesoft-SportsVisio-Training-Log
+# Tacklesoft-SportsVisio-Training-Log (Day 1)
 Title: Tacklesoft – SportsVisio Tagging Training (Day 1)
 Date: 7 Oct 2025
 
 🎯 Objective
 
-To gain hands-on experience in identifying and tagging key volleyball match events using the SportsVisio platform and understand the fundamentals of sports data operations.
+Gain hands-on experience in identifying and tagging key volleyball match events using the SportsVisio platform.
+
+Understand how raw match footage is transformed into structured, taggable sports-data events.
 
 🧠 What I Did
 
 Attended an introductory session on volleyball gameplay and event structure.
 
-Understood how coaches’ performance data is transformed into taggable actions.
+Understood how coaches’ performance data is converted into tagging inputs.
 
-Performed manual tagging under trainer supervision:
+Performed manual tagging under trainer supervision for:
 
 Serve / Serve Ace / Serve Error
 
 Dig / Kill / Block / Reception Error / Ball Error
 
-Used seek controls (+1s, +3s, +10s) to locate event frames accurately.
+Used seek controls (+1 s, +3 s, +10 s) to locate exact event frames.
 
 Practised player rotation mapping (on-court vs bench).
 
-Received positive trainer feedback: “Good, let’s give other opportunities.”
+Received positive feedback from the trainer – “Good, let’s give other opportunities.”
 
 💡 Key Learnings
 
-Importance of timing and accuracy in tagging.
+Importance of timing and accuracy in tagging live sports events.
 
-How to connect each event to the correct player and timestamp.
+Linking each event to the correct player and timestamp.
 
-Developed focus and rhythm across entire rallies.
+Developed focus and rhythm for consistent event tracking.
 
-Understood the tagging workflow used in professional sports data systems.
+Understood the tagging workflow used in professional sports-data systems.
 
 🧾 Tools Used
 
-SportsVisio platform (for tagging)
+🏐 SportsVisio Platform – for hands-on tagging and event logging.
 
-Google Meet (for live training and feedback)
+💻 Google Meet – for live training sessions and feedback.
 
 ## 📸 Screenshots
 
+### 🔹 SportsVisio Tagging Interface
 1️⃣ ![SportsVisio Tagging Interface – Dashboard View (Serve, Dig, Block)](SportsVisio%20Tagging%20Interface%20–%20dashboard%20view%20during%20hands-on%20tagging%20(Serve,%20Dig,%20Block)..png)
 
 2️⃣ ![SportsVisio Tagging Interface – Dashboard View 2 (Serve, Dig, Block)](SportsVisio%20Tagging%20Interface%20–%20dashboard%20view%20during%20hands-on%20tagging%202(Serve,%20Dig,%20Block)..png)
+
+### 🔹 Volleyball Introduction Session
 
 3️⃣ ![Volleyball Introduction Session – Trainer Explaining Match Structure and Rules](Volleyball%20Introduction%20Session%20–%20trainer%20explaining%20match%20structure%20and%20rules.png)
 
 4️⃣ ![Volleyball Introduction Session – Trainer Explaining Match Structure and Rules 2](Volleyball%20Introduction%20Session%20–%20trainer%20explaining%20match%20structure%20and%20rules2.png)
 
-🏁 Summary
+🗒️ Notes
 
-Completed Day 1 of SportsVisio training.
-Gained first-hand experience in tagging volleyball events within a structured data platform.
+Training conducted remotely, demonstrating ability to work effectively in a remote setup with stable internet, high-end laptop, and dedicated workspace.
+
+Ensured consistent focus and communication throughout the session.
+
+💬 Day 1 Summary:
+Built foundational understanding of volleyball match tagging and gained real-time exposure to the SportsVisio platform used in professional sports-data operations.
