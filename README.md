@@ -42,21 +42,13 @@ Google Meet (for live training and feedback)
 
 ## 📸 Screenshots
 
-### 🔹 SportsVisio Tagging Interface
-1. ![SportsVisio Tagging Interface – Dashboard View (Serve, Dig, Block)](assets/screenshots/SportsVisio_Tagging_Interface_Dashboard_View.png)  
-   *Hands-on tagging session showing Serve, Dig, Block events.*
+1️⃣ ![SportsVisio Tagging Interface – Dashboard View (Serve, Dig, Block)](SportsVisio%20Tagging%20Interface%20–%20dashboard%20view%20during%20hands-on%20tagging%20(Serve,%20Dig,%20Block)..png)
 
-2. ![SportsVisio Tagging Interface – Dashboard View 2 (Serve, Dig, Block)](assets/screenshots/SportsVisio_Tagging_Interface_Dashboard_View_2.png)  
-   *Continuation of live tagging interface during practice session.*
+2️⃣ ![SportsVisio Tagging Interface – Dashboard View 2 (Serve, Dig, Block)](SportsVisio%20Tagging%20Interface%20–%20dashboard%20view%20during%20hands-on%20tagging%202(Serve,%20Dig,%20Block)..png)
 
----
+3️⃣ ![Volleyball Introduction Session – Trainer Explaining Match Structure and Rules](Volleyball%20Introduction%20Session%20–%20trainer%20explaining%20match%20structure%20and%20rules.png)
 
-### 🔹 Volleyball Introduction Session
-3. ![Volleyball Introduction Session – Trainer Explaining Match Structure and Rules](assets/screenshots/Volleyball_Introduction_Session_Trainer_Explaining_Match_Structure_and_Rules.png)  
-   *Trainer explaining key volleyball concepts before platform demonstration.*
-
-4. ![Volleyball Introduction Session – Trainer Explaining Match Structure and Rules 2](assets/screenshots/Volleyball_Introduction_Session_Trainer_Explaining_Match_Structure_and_Rules_2.png)  
-   *Second reference image from the introduction session highlighting key points.*
+4️⃣ ![Volleyball Introduction Session – Trainer Explaining Match Structure and Rules 2](Volleyball%20Introduction%20Session%20–%20trainer%20explaining%20match%20structure%20and%20rules2.png)
 
 🏁 Summary
 
